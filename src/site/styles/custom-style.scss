@@ -68,6 +68,7 @@ h2 {
             flex-direction: column;
             transform: rotate(45deg);
             margin: 60px;
+            margin-bottom: 30px !important;
             align-items: flex-end;
 
             @media (max-width: 575.99px) {
@@ -108,11 +109,11 @@ h2 {
             justify-content: center;
             flex-wrap: wrap;
 
-            font-size: 0.8em;
+            font-size: 1.oem;
             color: var(--text-muted);
 
             img {
-                height: 1.5em;
+                height: 1.8em;
                 width: auto;
                 margin-right: 5px;
             }
